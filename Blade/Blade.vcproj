@@ -207,6 +207,10 @@
 				RelativePath=".\obj_ext.cpp"
 				>
 			</File>
+			<File
+				RelativePath=".\vc_bind.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"

@@ -140,6 +140,7 @@ extern "C" {
 #endif
 
 extern void create_bcb_wrappers(void);
+extern void init_thiscall_methods(void);
 
 #ifdef __cplusplus
 }

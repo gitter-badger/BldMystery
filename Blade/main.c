@@ -628,6 +628,8 @@ WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, in
 
 #endif
 
+        init_thiscall_methods();
+
         BldStartup(startup_cb);
 
         return 0;
