@@ -409,7 +409,9 @@
         <address>0040B396</address>
       </procedure>
       <procedure name="fn0040B560">
+        <characteristics />
         <address>0040B560</address>
+        <decompile>false</decompile>
       </procedure>
       <procedure name="show_input_dialog">
         <characteristics />
@@ -13175,10 +13177,14 @@ int SetCharFuncProperty(int charID, int property_kind, int index, PyObject *func
         <address>0058CD8D</address>
       </procedure>
       <procedure name="fn0058D235">
+        <characteristics />
         <address>0058D235</address>
+        <decompile>false</decompile>
       </procedure>
       <procedure name="fn0058D574">
+        <characteristics />
         <address>0058D574</address>
+        <decompile>false</decompile>
       </procedure>
       <procedure name="fn0058D844">
         <address>0058D844</address>
