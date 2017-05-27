@@ -6165,7 +6165,9 @@ int saveSoundDataBase(const char *file_name)</CSignature>
         <address>004D652D</address>
       </procedure>
       <procedure name="fn004D684F">
+        <characteristics />
         <address>004D684F</address>
+        <decompile>false</decompile>
       </procedure>
       <procedure name="fn004D6B40">
         <address>004D6B40</address>
@@ -6562,7 +6564,9 @@ int saveSoundDataBase(const char *file_name)</CSignature>
         <address>004EBC5B</address>
       </procedure>
       <procedure name="fn004EC26D">
+        <characteristics />
         <address>004EC26D</address>
+        <decompile>false</decompile>
       </procedure>
       <procedure name="fn004EE78C">
         <address>004EE78C</address>
@@ -8768,7 +8772,9 @@ void CleanArea(double x, double y, double z, float distance)</CSignature>
         <address>0053774A</address>
       </procedure>
       <procedure name="fn00537D62">
+        <characteristics />
         <address>00537D62</address>
+        <decompile>false</decompile>
       </procedure>
       <procedure name="fn0053AC29">
         <address>0053AC29</address>
@@ -10297,7 +10303,9 @@ int SetCharFuncProperty(int charID, int property_kind, int index, PyObject *func
         <address>00586F2A</address>
       </procedure>
       <procedure name="fn0058705B">
+        <characteristics />
         <address>0058705B</address>
+        <decompile>false</decompile>
       </procedure>
       <procedure name="fn00587CAC">
         <address>00587CAC</address>
